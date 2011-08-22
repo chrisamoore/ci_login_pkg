@@ -1,0 +1,3 @@
+<div>
+ Logout view!
+</div>

@@ -1,0 +1,3 @@
+<div>
+	adminPanel view!
+</div>
