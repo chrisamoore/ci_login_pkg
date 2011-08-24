@@ -1,4 +1,5 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+<<<<<<< HEAD
 /**
  * Login Controller Class
  * 
@@ -15,6 +16,9 @@
  * 
  * Copyright (c) 2011
  */ 
+=======
+
+>>>>>>> ba4d707... init commit
 class Login extends CI_Controller {
 	function __construct()
 	{

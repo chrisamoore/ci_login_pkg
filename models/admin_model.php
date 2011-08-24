@@ -1,5 +1,6 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 /**
+<<<<<<< HEAD
  * Admin Model Class
  * 
  * Description: This is Admin Model Class Compares users against MySQL DB using sha1 encryption
@@ -16,6 +17,12 @@
  * Copyright (c) 2011
  */ 
 
+=======
+ * Function ADMIN_model
+ * 
+ * Description check the DB for user authentication
+*/ 
+>>>>>>> ba4d707... init commit
 class Admin_model extends CI_Model{
 	
 	function __construct()
