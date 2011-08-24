@@ -1,5 +1,20 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
-
+/**
+ * Login Controller Class
+ * 
+ * Description: This is a User Login Class Controller
+ * Requres: Phil Sturgeons' Template class http://getsparks.org/packages/template/show
+ * 
+ * @license     GNU General Public License    
+ * @author      Christopher A. Moore
+ * @link        http://camdesigns.net
+ * @email       chris@camdesigns.net
+ * 
+ * @file        login.php
+ * @version     2.1  
+ * 
+ * Copyright (c) 2011
+ */ 
 class Login extends CI_Controller {
 	function __construct()
 	{
